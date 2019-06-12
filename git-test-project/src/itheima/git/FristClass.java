@@ -5,4 +5,10 @@ public class FristClass {
         System.out.println("来来来");
         System.out.println("去去去");
     }
+
+
+
+    public int getA() {
+        return 2;
+    }
 }
